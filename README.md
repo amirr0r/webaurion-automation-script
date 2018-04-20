@@ -7,7 +7,7 @@ Ce script concerne les personnes qui ont été admises à l'ESIEE en cycle Ingé
 - Inscrire vos candidatures dans un fichier ```.csv``` (exporter depuis Excel par exemple)
 
 Toutefois, vous aurez à le modifier si par exemple :
-- vous ne candidatez pas à la filière _Réseaux et sécurité "Architecture et internet des objets" - site de Noisy-le-Grand _
+- vous ne candidatez pas à la filière _Réseaux et sécurité "Architecture et internet des objets" - site de Noisy-le-Grand_
 - les "clés" de votre fichier ne sont pas les mêmes que les miennes.
 
 ## Utilisation
