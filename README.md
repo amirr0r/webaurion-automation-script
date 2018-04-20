@@ -15,3 +15,7 @@ Toutefois, vous aurez à le modifier si par exemple :
 2. ```node index.js``` : lance le programme
 
 Et oui c'est tout 😁... allez tchao !
+
+## Demo
+
+![demo](demo.gif)
