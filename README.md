@@ -1,2 +1,19 @@
 # webaurion-automation-script
 à quoi bon sert de faire des scripts sinon ?
+
+## Utilisation
+
+Ce script concerne les personnes qui ont été admises à l'ESIEE en cycle Ingénieur par apprentissage et qui ont la flemme de renseigner une à une les entreprises pour lesquelles ils ont postulé. 
+
+### Prérequis
+- [Node.js](https://nodejs.org/fr/) doit être installé.
+- Inscrire vos candidatures dans un fichier ```.csv``` (exporter depuis Excel par exemple)
+
+Toutefois, vous aurez à le modifier si par exemple :
+- vous ne candidatez pas à la filière _Réseaux et sécurité "Architecture et internet des objets" - site de Noisy-le-Grand _
+- les "clés" de votre fichier ne sont pas les mêmes que les miennes.
+
+```npm i```
+```node index.js```
+
+Et oui c'est tout 😁... allez tchao !
