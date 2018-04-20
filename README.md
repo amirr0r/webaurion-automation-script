@@ -13,7 +13,7 @@ Toutefois, vous aurez à le modifier si par exemple :
 - vous ne candidatez pas à la filière _Réseaux et sécurité "Architecture et internet des objets" - site de Noisy-le-Grand _
 - les "clés" de votre fichier ne sont pas les mêmes que les miennes.
 
-```npm i```
-```node index.js```
+- ```npm i``` : permet d'installer les dépendances
+- ```node index.js``` : lance le programme
 
 Et oui c'est tout 😁... allez tchao !
